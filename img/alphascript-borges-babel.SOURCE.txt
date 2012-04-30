@@ -1,4 +1,4 @@
-A
+Auteur: Manuel Schmalstieg
 
 Licence:
 Creative Commons CC0
@@ -15,6 +15,4 @@ Two spam-books by Alphascript / Betascript Publishing (borrowed from a swiss uni
 
 Deux livres-spam édités par Alphascript / Betascript Publishing (provenant d'une bibliothèque universitaire), reposant sur la tombe de Jorge Luis Borges, au Cimetière des Rois, Genève. L'image fait référence à la "Bibliothèque de Babel" (1941), une nouvelle décrivant une bibliothèque infinie remplie de livres au contenu aléatoire.
 
-
-
-
+***
