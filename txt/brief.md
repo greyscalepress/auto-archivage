@@ -1,4 +1,5 @@
 Vous avez participé au séminaire "De l'auto-archvage immédiat comme œuvre" en décembre dernier à Lorient.
+
 J'avais mentionné que ce séminaire serait suivit d'une publication : elle prendra finalement la forme d'une numéro de la revue Pratiques.
 
 Cette revue est portée par l'école des B-A de Rennes, l'université Rennes 2 et le Frac Bretagne. Elle est éditée par les presse universitaire Rennes2 et elle est bien diffusée.
@@ -8,7 +9,7 @@ Elle se sépare en trois parties : Théorie, pratique, médiation.
 Ce numéro de la revue rendra compte des interventions de chaque artiste/critique présent. 
 L'équipe de recherche (Gwenola, Dominique, Sylvie et Reynald) produiront des textes synthétiques liés à la recherche, et je ferais une introduction pour parler du contexte du séminaire et de la recherche.
 
-À ce titre, votre participation à ce numéro prendrait la forme d'un texte relatif à votre intervention (de 6000 à 20000 caractères - sans espace). 
+À ce titre, votre participation à ce numéro prendrait la forme d'un texte relatif à votre intervention (de 6000 à 20'000 caractères - sans espace). 
 
 Ce texte peut être le conducteur/résumé de votre intervention. Vous pouvez aussi prendre cela comme un exercice synthétique de votre travail vis à vis du sujet traité. Vous pouvez aussi l'augmenter de choses qui sont inhérentes à votre pratique: références théoriques, exemples, etc.
 
