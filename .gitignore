@@ -40,3 +40,9 @@ Thumbs.db
 ###################
 *.autosave
 *(Autosaved).md
+
+# OLD VERSIONS #
+################
+/old-versions/*
+
+###################

@@ -9,14 +9,20 @@ Organisation de la conférence:
 5) amazon book spam
 6) conversations with Assange
 
-***
+**********************
 
 Structure de l'article:
+**********************
+
+Intro
 
 R (report from the desert)
-
+Mutations (1)
 Le Grand Archivage
-
+Print on Demand
 Destruction par effacement
 
 ***
+
+légendes.
+
